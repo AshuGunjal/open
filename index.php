@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<form method="post" action="http://10.0.0.1:8002/index.php?zone=os3">
+<form method="post">
 	<input name="redirurl" type="hidden" value="">
 	<input name="zone" type="hidden" value="os3">
 	<center>
@@ -10,7 +10,7 @@
 		<td style="border-bottom:1px solid #000000">
 			<font color='white'>
 			<b>
-				pfSense captive portal
+				GHANTA.com
 			</b>
 			</font>
 		</td>
@@ -40,10 +40,10 @@
 								<br />
 								<div id='loginbox'>
 								<table>
-									<tr><td colspan="2"><center>Welcome to the pfSense Captive Portal!</td></tr>
+									<tr><td colspan="2"><center>CHALA LONAVALA LA JAU</td></tr>
 									<tr><td>&nbsp;</td></tr>
-									<tr><td class="text-right">Username:</td><td><input name="auth_user" type="text" style="border: 1px dashed;"></td></tr>
-									<tr><td class="text-right">Password:</td><td><input name="auth_pass" type="password" style="border: 1px dashed;"></td></tr>
+									<tr><td class="text-right">HO:</td><td><input name="auth_user" type="text" style="border: 1px dashed;"></td></tr>
+									<tr><td class="text-right">NAHI:</td><td><input name="auth_pass" type="password" style="border: 1px dashed;"></td></tr>
 									<tr><td>&nbsp;</td></tr>
 									<tr>
 										<td colspan="2"><center><input name="accept" type="submit" value="Continue"></center></td>
