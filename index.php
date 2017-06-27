@@ -10,7 +10,7 @@
 		<td style="border-bottom:1px solid #000000">
 			<font color='white'>
 			<b>
-				GHANTA.com
+				DATAAAAAAA
 			</b>
 			</font>
 		</td>
