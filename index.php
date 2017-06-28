@@ -70,7 +70,7 @@
 </form>
 </body>
 </html>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 
  <?php
