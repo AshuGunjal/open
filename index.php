@@ -74,7 +74,7 @@
 
 
  <?php
-$servername = "127.0.0.1";
+$servername = "mysql://mysql:3306/";
 $username = "openuser";
 $password = "openpass";
 
