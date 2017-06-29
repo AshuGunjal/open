@@ -1,3 +1,0 @@
-# open
- 
- ho re baba
