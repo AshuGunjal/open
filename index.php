@@ -6,7 +6,7 @@
 	<input name="zone" type="hidden" value="os3">
 	<center>
 	<table cellpadding="6" cellspacing="0" width="550" height="380" style="border:1px solid #000000">
-	<tr height="10" style="background-color:#990000">
+	<tr height="10" style="background-color:#000">
 		<td style="border-bottom:1px solid #000000">
 			<font color='white'>
 			<b>
